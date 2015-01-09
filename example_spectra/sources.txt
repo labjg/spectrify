@@ -1,0 +1,5 @@
+Example galaxy spectra taken from 6dF survey, via NED:
+https://ned.ipac.caltech.edu/cgi-bin/NEDspectra?objname=&extend=multi&detail=0&preview=1&numpp=20&refcode=2009MNRAS.399..683J&bandpass=Optical&line=ANY
+
+Example stellar spectra taken from ESO library of staller spectra:
+https://www.eso.org/sci/facilities/paranal/decommissioned/isaac/tools/lib.html
