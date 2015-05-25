@@ -1,5 +1,5 @@
 # spectrify
-Reverse engineer astronomical spectra into pretty rainbow pictures
+Reverse engineer astronomical spectra into pretty rainbow pictures with Python
 
 Prerequisites:
 - Python Imaging Library ('PIL')
