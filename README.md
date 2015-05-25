@@ -3,9 +3,9 @@ Reverse engineer astronomical spectra into pretty rainbow pictures
 
 Prerequisites:
 - Python Imaging Library ('PIL')
-- numpy
+- NumPy
 
-The class in 'spectrify.py' takes a 2D numpy array of spectral values (wavelength, counts) and 'reverse engineers' the data to produce a visible spectrum image vaguely like what came out of the telescope spectrograph.  It is intended for more intuitive visualisation of spectra for public outreach etc.
+The class in 'spectrify.py' takes a 2D NumPy array of spectral values (wavelength, counts) and 'reverse engineers' the data to produce a visible spectrum image vaguely like what came out of the telescope spectrograph.  It is intended for more intuitive visualisation of spectra for public outreach etc.
 
 Actually, any image can be provided - the idea is that the image shows a linear progression of colours within a (specified) wavelength range.
 
